@@ -1,3 +1,10 @@
+=== 6.0.5.rt1 / 2019-09-03
+
+* Bug fixes
+
+  * Backporting nil values (https://github.com/rails/arel/pull/476)
+  * Backported thread safety fix from https://github.com/rails/arel/pull/472
+
 === 6.0.4 / 2016-12-27
 
 * Enhancements
